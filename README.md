@@ -5,7 +5,7 @@
 
 ---
 
-<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDE1cHE4OTNjbnlzaWl2NDl3OHk1ZnBoaGU3dDBuaDVsbnhvcG80byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/noyBeNjH4nbtXV5ZLA/giphy.gif" width="250" />
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGV3N3RranpoaTBwbm9jdW15cjZwYzZpMTc5aGQ3aDkyNHptbm56YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/69bK4OX5RcklWMM69Z/giphy.gif" width="250" />
 
 ### 👨‍🔬 Who Am I?
 
