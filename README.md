@@ -1,52 +1,55 @@
-# 👋 Hey there, I'm Om Mane!
+<!-- Om Mane's GitHub Profile README -->
 
-🎯 **Aspiring Data Analyst & Budding Data Scientist**  
-🔬 BSc in Bioanalytics | 📊 MBA in Business Analytics (Pursuing)  
-📍 Based in Mumbai, India | 🌐 Open to remote & hybrid roles
-
----
-
-## 💡 About Me
-
-I'm passionate about transforming raw data into clear, actionable insights.  
-With a foundation in **Python**, **SQL**, **Power BI**, and basic **machine learning**, I love solving real-world business problems and telling compelling stories with data.
-
-I’ve explored diverse domains like mental health, marketing analytics, and movie success prediction through hands-on projects and virtual internships.
+<h1 align="center">Hi there! 👋 I'm Om Mane</h1>
+<p align="center">🧠 Data Whisperer | 🧪 Bioanalytics Brain turned Data Analyst | 🎯 Business + Code = My Playground</p>
 
 ---
 
-## 🛠️ Tools & Technologies
+<img align="right" src="https://media.giphy.com/media/UqBvvS4fhyG7iVYbyX/giphy.gif" width="250" />
 
-- **Languages**: Python, SQL  
-- **Libraries**: Pandas, Matplotlib, Seaborn, Scikit-Learn
-- **Databases**: MongoDB, MySQL  
-- **BI Tools**: Power BI, Excel  
-- **Others**: Streamlit, Git, Jupyter
+### 👨‍🔬 Who Am I?
 
----
-
-## 🚀 Projects
-
-🔹 [📊 Mental Health EDA (India)](https://github.com/O-M18th-eda)  
-Exploratory data analysis of district-wise mental health statistics to uncover trends and healthcare gaps.  
-**Tools:** Python, Seaborn, Power BI
+- 🎓 Bioanalytics Grad | 📊 Business Analytics Enthusiast  
+- 🔄 Turning data noise into data **voice**  
+- 🤖 Currently exploring the wild lands of Machine Learning  
+- 🌏 Based in Mumbai | 🌐 Working globally (remotely)
 
 ---
 
-## 📈 GitHub Stats
+### 🛠️ My Toolkit
 
-![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=O-M18&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=O-M18&layout=compact)
+```python
+Languages    = ['Python', 'SQL']
+Libraries    = ['Pandas', 'Matplotlib', 'Seaborn', 'Scikit-Learn']
+Databases    = ['MongoDB', 'MySQL']
+BI Tools     = ['Power BI', 'Excel']
+Other        = ['Git', 'Streamlit', 'Jupyter']
+```
+🚀 Projects That I Loved Working On
+🧠 Mental Health in India (EDA)
+🔎 Explored district-wise data to uncover mental health trends and healthcare accessibility
+Tech: Python, Power BI, Seaborn
+📁 GitHub Repo
 
----
 
-## 📫 Let's Connect!
+📊 GitHub Magic
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" /> </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/om-mane-921a1b283)  
-📧 Email: omsm1802@gmail.com
+✨ Fun Facts About Me
+🧩 I enjoy breaking down complex problems like puzzles
 
----
+💬 Ask me about: Data, Google Ads, Python jokes
 
-_“Turning data into decisions. One query at a time.”_
+🌟 Dreaming of presenting ML at a TEDx someday
 
--->
+🍣Music is my brain fuel
+
+🎤 I might try stand-up comedy about data someday
+
+
+📫 Let’s Connect
+
+📧 Email: om.s.mane1234@gmail.com
+
+
+<p align="center"><i>“In a world full of noise, be the insight.”</i></p> ```
