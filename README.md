@@ -33,7 +33,7 @@ Tech: Python, Power BI, Seaborn
 
 
 📊 GitHub Magic
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-M18&layout=compact&theme=radical" /> </p>
 
 ✨ Fun Facts About Me
 🧩 I enjoy breaking down complex problems like puzzles
