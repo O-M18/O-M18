@@ -42,11 +42,8 @@ Other      = ['Streamlit', 'Jupyter', 'Git']
 
 🛠 Tech: Python, Seaborn, Power BI
 
-📁 GitHub Repo: (add link here)
-
 ---
 
-)
 ### 📊 GitHub Highlights
 
 <p align="center">
