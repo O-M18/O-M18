@@ -46,21 +46,37 @@ Other      = ['Streamlit', 'Jupyter', 'Git']
 
 ### 📊 GitHub Highlights
 
-<p align="center">
+### 📊 GitHub Magic (Custom API Cards)
 
-  <!-- Profile Badge -->
-  <img src="https://img.shields.io/badge/GitHub-o--m18-black?style=for-the-badge&logo=github" />
+<div align="center">
 
-  <!-- Followers -->
-  <img src="https://img.shields.io/github/followers/o-m18?label=Followers&style=for-the-badge" />
+  <!-- CARD 1: Overview -->
+  <img src="https://img.shields.io/badge/PROFILE%20STATS-%20o--m18-1F1F1F?style=for-the-badge&logo=github" />
+  <br>
+  <img src="https://img.shields.io/github/followers/o-m18?color=blue&label=Followers&logo=github&style=flat-square" />
+  <img src="https://img.shields.io/github/stars/o-m18?color=yellow&label=Stars&logo=github&style=flat-square" />
+  <img src="https://img.shields.io/github/commit-activity/y/o-m18?color=green&label=Commits%20This%20Year&style=flat-square" />
+  
+  <br><br>
 
-  <!-- Stars -->
-  <img src="https://img.shields.io/github/stars/o-m18?style=for-the-badge" />
+  <!-- CARD 2: Contribution Stats -->
+  <img src="https://img.shields.io/badge/CONTRIBUTIONS-ACTIVE-1F1F1F?style=for-the-badge&logo=github" />
+  <br>
+  <img src="https://img.shields.io/github/last-commit/o-m18/o-m18?label=Last%20Commit&style=flat-square" />
+  <img src="https://img.shields.io/github/contributors/o-m18/o-m18?label=Collaborators&style=flat-square" />
+  <img src="https://img.shields.io/github/issues-closed/o-m18/o-m18?label=Issues%20Closed&style=flat-square" />
 
-  <!-- Commits This Year -->
-  <img src="https://img.shields.io/github/commit-activity/y/o-m18?style=for-the-badge" />
+  <br><br>
 
-</p>
+  <!-- CARD 3: Repo Highlight -->
+  <img src="https://img.shields.io/badge/REPOSITORIES-OVERVIEW-1F1F1F?style=for-the-badge&logo=github" />
+  <br>
+  <img src="https://img.shields.io/badge/Public%20Repos-Click%20Here-blue?style=flat-square" />
+  <br>
+  <a href="https://github.com/o-m18?tab=repositories"><b>View My GitHub Repositories</b></a>
+
+</div>
+
 
 ---
 
