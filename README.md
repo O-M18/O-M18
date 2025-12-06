@@ -49,22 +49,22 @@ Other      = ['Streamlit', 'Jupyter', 'Git']
 
 <table>
   <tr>
-    <!-- Followers -->
-    <td align="center" width="260">
-      <img src="https://img.shields.io/badge/-Followers-000?style=for-the-badge&logo=googlemessages&logoColor=white&labelColor=fe4164" style="border-radius:20px;" /><br>
-      <img src="https://img.shields.io/github/followers/o-m18?label=&style=flat&color=fe4164" />
+      <!-- Followers -->
+      <td align="center" width="260">
+        <img src="https://img.shields.io/badge/-Followers-000?style=for-the-badge&logo=googlemessages&logoColor=white&labelColor=fe4164" style="border-radius:20px;" /><br>
+        <img src="https://img.shields.io/github/followers/o-m18?label=&style=flat&color=fe4164" />
+      </td>
+  
+        <!-- Stars -->
+   <td align="center" width="260">
+          <img src="https://img.shields.io/badge/-Stars-000?style=for-the-badge&logo=starship&logoColor=white&labelColor=ffaa00" style="border-radius:20px;" /><br>
+          <img src="https://img.shields.io/github/stars/o-m18?label=&style=flat&color=ffaa00" />
     </td>
-
-    <!-- Stars -->
-    <td align="center" width="260">
-      <img src="https://img.shields.io/badge/-Stars-000?style=for-the-badge&logo=starship&logoColor=white&labelColor=ffaa00" style="border-radius:20px;" /><br>
-      <img src="https://img.shields.io/github/stars/o-m18?label=&style=flat&color=ffaa00" />
-    </td>
-
-    <!-- Commits -->
-    <td align="center" width="260">
-      <img src="https://img.shields.io/badge/-Commits%20This%20Year-000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=29b473" style="border-radius:20px;" /><br>
-      <img src="https://img.shields.io/github/commit-activity/y/o-m18?label=&style=flat&color=29b473" />
+  
+      <!-- Commits -->
+  <td align="center" width="260">
+        <img src="https://img.shields.io/badge/-Commits%20This%20Year-000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=29b473" style="border-radius:20px;" /><br>
+        <img src="https://img.shields.io/github/commit-activity/y/o-m18?label=&style=flat&color=29b473" />
     </td>
   </tr>
 
@@ -76,13 +76,13 @@ Other      = ['Streamlit', 'Jupyter', 'Git']
     </td>
 
     <!-- Issues Closed -->
-    <td align="center">
+  <td align="center">
       <img src="https://img.shields.io/badge/-Issues%20Closed-000?style=for-the-badge&logo=googlechat&logoColor=white&labelColor=7d5fff" style="border-radius:20px;" /><br>
       <img src="https://img.shields.io/github/issues-closed/o-m18/o-m18?label=&style=flat&color=7d5fff" />
-    </td>
+  </td>
 
     <!-- Collaborators -->
-    <td align="center">
+  <td align="center">
       <img src="https://img.shields.io/badge/-Collaborators-000?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" style="border-radius:20px;" /><br>
       <img src="https://img.shields.io/github/contributors/o-m18/o-m18?label=&style=flat&color=5865F2" />
     </td>
@@ -114,18 +114,6 @@ Other      = ['Streamlit', 'Jupyter', 'Git']
 
 </div>
 
-
-
-
----
-
-### 🗂️ Public Repositories
-
- <img src="https://img.shields.io/badge/-Repositories-000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1460e5" style="border-radius:20px;" />
-  <br>
-  <a href="https://github.com/o-m18?tab=repositories">
-    <img src="https://img.shields.io/badge/Click%20to%20View-1460e5?style=flat&label=" />
-  </a>
 
 
 
