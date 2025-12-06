@@ -50,8 +50,8 @@ Other      = ['Streamlit', 'Jupyter', 'Git']
 
 📊 GitHub Magic
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=o-m18-noto&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=o-m18-noto&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=O-M18-noto&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=O-M18-noto&layout=compact&theme=radical" />
 </p>
 
 
