@@ -58,20 +58,16 @@ Other      = ['Streamlit', 'Jupyter', 'Git']
           <img src="https://img.shields.io/badge/-Stars-000?style=for-the-badge&logo=starship&logoColor=white&labelColor=ffaa00" style="border-radius:20px;" /><br>
           <img src="https://img.shields.io/github/stars/o-m18?label=&style=flat&color=ffaa00" />
     </td>
-  </tr>
-
-  <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/-Last%20Commit-000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=ff3e8d" style="border-radius:20px;" /><br>
       <img src="https://img.shields.io/github/last-commit/o-m18/o-m18?label=&style=flat&color=ff3e8d" />
     </td>
-  <td align="center">
+  </tr>
+  <tr>
+    <td align="center">
       <img src="https://img.shields.io/badge/-Collaborators-000?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" style="border-radius:20px;" /><br>
       <img src="https://img.shields.io/github/contributors/o-m18/o-m18?label=&style=flat&color=5865F2" />
     </td>
-  </tr>
-
-  <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/-Repositories-000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1460e5" style="border-radius:20px;" /><br>
       <a href="https://github.com/o-m18?tab=repositories">
