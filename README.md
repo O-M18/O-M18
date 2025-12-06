@@ -47,11 +47,34 @@ Other      = ['Streamlit', 'Jupyter', 'Git']
 ---
 
 )
+### 📊 GitHub Highlights
 
-📊 GitHub Magic
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=o-m18&show_icons=true&theme=radical" />
 
+  <!-- Profile Badge -->
+  <img src="https://img.shields.io/badge/GitHub-o--m18-black?style=for-the-badge&logo=github" />
+
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/o-m18?label=Followers&style=for-the-badge" />
+
+  <!-- Stars -->
+  <img src="https://img.shields.io/github/stars/o-m18?style=for-the-badge" />
+
+  <!-- Commits This Year -->
+  <img src="https://img.shields.io/github/commit-activity/y/o-m18?style=for-the-badge" />
+
+</p>
+
+---
+
+### 🗂️ Public Repositories
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Public_Repos-Click_to_View-blue?style=for-the-badge" />
+</p>
+
+<p align="center">
+  👉 <a href="https://github.com/o-m18?tab=repositories">View My Repos</a>
 </p>
 
 
