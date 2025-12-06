@@ -46,36 +46,41 @@ Other      = ['Streamlit', 'Jupyter', 'Git']
 
 ### 📊 GitHub Highlights
 
-### 📊 GitHub Magic (Custom API Cards)
-
 <div align="center">
 
-  <!-- CARD 1: Overview -->
-  <img src="https://img.shields.io/badge/PROFILE%20STATS-%20o--m18-1F1F1F?style=for-the-badge&logo=github" />
+  <!-- CARD 1: FOLLOWERS -->
+  <img src="https://img.shields.io/badge/Followers-1F1F1F?style=for-the-badge&logo=github&logoColor=white&color=1F1F1F" style="border-radius: 14px; padding:6px;" />
   <br>
-  <img src="https://img.shields.io/github/followers/o-m18?color=blue&label=Followers&logo=github&style=flat-square" />
-  <img src="https://img.shields.io/github/stars/o-m18?color=yellow&label=Stars&logo=github&style=flat-square" />
-  <img src="https://img.shields.io/github/commit-activity/y/o-m18?color=green&label=Commits%20This%20Year&style=flat-square" />
-  
+  <img src="https://img.shields.io/github/followers/o-m18?style=flat&color=blue&label= " />
   <br><br>
 
-  <!-- CARD 2: Contribution Stats -->
-  <img src="https://img.shields.io/badge/CONTRIBUTIONS-ACTIVE-1F1F1F?style=for-the-badge&logo=github" />
+  <!-- CARD 2: STARS -->
+  <img src="https://img.shields.io/badge/Stars-1F1F1F?style=for-the-badge&logo=github&logoColor=white&color=1F1F1F" style="border-radius: 14px; padding:6px;" />
   <br>
-  <img src="https://img.shields.io/github/last-commit/o-m18/o-m18?label=Last%20Commit&style=flat-square" />
-  <img src="https://img.shields.io/github/contributors/o-m18/o-m18?label=Collaborators&style=flat-square" />
-  <img src="https://img.shields.io/github/issues-closed/o-m18/o-m18?label=Issues%20Closed&style=flat-square" />
-
+  <img src="https://img.shields.io/github/stars/o-m18?style=flat&color=yellow&label= " />
   <br><br>
 
-  <!-- CARD 3: Repo Highlight -->
-  <img src="https://img.shields.io/badge/REPOSITORIES-OVERVIEW-1F1F1F?style=for-the-badge&logo=github" />
+  <!-- CARD 3: COMMITS -->
+  <img src="https://img.shields.io/badge/Commits%20This%20Year-1F1F1F?style=for-the-badge&logo=github&logoColor=white&color=1F1F1F" style="border-radius: 14px; padding:6px;" />
   <br>
-  <img src="https://img.shields.io/badge/Public%20Repos-Click%20Here-blue?style=flat-square" />
+  <img src="https://img.shields.io/github/commit-activity/y/o-m18?style=flat&color=green&label= " />
+  <br><br>
+
+  <!-- CARD 4: LAST COMMIT -->
+  <img src="https://img.shields.io/badge/Last%20Commit-1F1F1F?style=for-the-badge&logo=github&logoColor=white&color=1F1F1F" style="border-radius: 14px; padding:6px;" />
   <br>
-  <a href="https://github.com/o-m18?tab=repositories"><b>View My GitHub Repositories</b></a>
+  <img src="https://img.shields.io/github/last-commit/o-m18/o-m18?style=flat&color=orange&label= " />
+  <br><br>
+
+  <!-- CARD 5: PUBLIC REPOS -->
+  <img src="https://img.shields.io/badge/Public%20Repos-1F1F1F?style=for-the-badge&logo=github&logoColor=white&color=1F1F1F" style="border-radius: 14px; padding:6px;" />
+  <br>
+  <a href="https://github.com/o-m18?tab=repositories">
+    <img src="https://img.shields.io/badge/Click%20to%20View-blue?style=flat&label= " />
+  </a>
 
 </div>
+
 
 
 ---
