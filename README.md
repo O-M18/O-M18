@@ -45,43 +45,72 @@ Other      = ['Streamlit', 'Jupyter', 'Git']
 ---
 
 ### 📊 GitHub Highlights
-
 <div align="center">
 
-### 📊 GitHub Magic — Social Media Style Cards  
+<table>
+  <tr>
+    <!-- Followers -->
+    <td align="center" width="260">
+      <img src="https://img.shields.io/badge/-Followers-000?style=for-the-badge&logo=googlemessages&logoColor=white&labelColor=fe4164" style="border-radius:20px;" /><br>
+      <img src="https://img.shields.io/github/followers/o-m18?label=&style=flat&color=fe4164" />
+    </td>
 
-<div align="center">
+    <!-- Stars -->
+    <td align="center" width="260">
+      <img src="https://img.shields.io/badge/-Stars-000?style=for-the-badge&logo=starship&logoColor=white&labelColor=ffaa00" style="border-radius:20px;" /><br>
+      <img src="https://img.shields.io/github/stars/o-m18?label=&style=flat&color=ffaa00" />
+    </td>
 
-  <!-- Followers -->
-  <img src="https://img.shields.io/badge/-Followers-000?style=for-the-badge&logo=googlemessages&logoColor=white&labelColor=fe4164" style="border-radius:20px;" />
-  <br>
-  <img src="https://img.shields.io/github/followers/o-m18?label=&style=flat&color=fe4164" />
-  <br><br>
+    <!-- Commits -->
+    <td align="center" width="260">
+      <img src="https://img.shields.io/badge/-Commits%20This%20Year-000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=29b473" style="border-radius:20px;" /><br>
+      <img src="https://img.shields.io/github/commit-activity/y/o-m18?label=&style=flat&color=29b473" />
+    </td>
+  </tr>
 
-  <!-- Stars -->
-  <img src="https://img.shields.io/badge/-Stars-000?style=for-the-badge&logo=starship&logoColor=white&labelColor=ffaa00" style="border-radius:20px;" />
-  <br>
-  <img src="https://img.shields.io/github/stars/o-m18?label=&style=flat&color=ffaa00" />
-  <br><br>
+  <tr>
+    <!-- Last Commit -->
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Last%20Commit-000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=ff3e8d" style="border-radius:20px;" /><br>
+      <img src="https://img.shields.io/github/last-commit/o-m18/o-m18?label=&style=flat&color=ff3e8d" />
+    </td>
 
-  <!-- Commits -->
-  <img src="https://img.shields.io/badge/-Commits%20This%20Year-000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=29b473" style="border-radius:20px;" />
-  <br>
-  <img src="https://img.shields.io/github/commit-activity/y/o-m18?label=&style=flat&color=29b473" />
-  <br><br>
+    <!-- Issues Closed -->
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Issues%20Closed-000?style=for-the-badge&logo=googlechat&logoColor=white&labelColor=7d5fff" style="border-radius:20px;" /><br>
+      <img src="https://img.shields.io/github/issues-closed/o-m18/o-m18?label=&style=flat&color=7d5fff" />
+    </td>
 
-  <!-- Last Commit -->
-  <img src="https://img.shields.io/badge/-Last%20Commit-000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=ff3e8d" style="border-radius:20px;" />
-  <br>
-  <img src="https://img.shields.io/github/last-commit/o-m18/o-m18?label=&style=flat&color=ff3e8d" />
-  <br><br>
+    <!-- Collaborators -->
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Collaborators-000?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" style="border-radius:20px;" /><br>
+      <img src="https://img.shields.io/github/contributors/o-m18/o-m18?label=&style=flat&color=5865F2" />
+    </td>
+  </tr>
 
-  <!-- Public Repos -->
-  <img src="https://img.shields.io/badge/-Repositories-000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1460e5" style="border-radius:20px;" />
-  <br>
-  <a href="https://github.com/o-m18?tab=repositories">
-    <img src="https://img.shields.io/badge/Click%20to%20View-1460e5?style=flat&label=" />
-  </a>
+  <tr>
+    <!-- Public Repos -->
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Repositories-000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1460e5" style="border-radius:20px;" /><br>
+      <a href="https://github.com/o-m18?tab=repositories">
+        <img src="https://img.shields.io/badge/Click%20to%20View-1460e5?style=flat&label=" />
+      </a>
+    </td>
+
+    <!-- Profile Views -->
+   <td align="center">
+      <img src="https://img.shields.io/badge/-Profile%20Views-000?style=for-the-badge&logo=googleanalytics&logoColor=white&labelColor=0FA3B1" style="border-radius:20px;" /><br>
+      <img src="https://komarev.com/ghpvc/?username=o-m18&style=flat&color=0FA3B1&label=" />
+    </td>
+
+    <!-- Contributions -->
+  <td align="center">
+      <img src="https://img.shields.io/badge/-Contributions-000?style=for-the-badge&logo=github&logoColor=white&labelColor=00C49A" style="border-radius:20px;" /><br>
+      <img src="https://img.shields.io/github/commit-activity/m/o-m18?label=&style=flat&color=00C49A" />
+    </td>
+  </tr>
+
+</table>
 
 </div>
 
