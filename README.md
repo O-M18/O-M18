@@ -58,11 +58,6 @@ Other      = ['Streamlit', 'Jupyter', 'Git']
           <img src="https://img.shields.io/badge/-Stars-000?style=for-the-badge&logo=starship&logoColor=white&labelColor=ffaa00" style="border-radius:20px;" /><br>
           <img src="https://img.shields.io/github/stars/o-m18?label=&style=flat&color=ffaa00" />
     </td>
-  
-  <td align="center" width="260">
-        <img src="https://img.shields.io/badge/-Commits%20This%20Year-000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=29b473" style="border-radius:20px;" /><br>
-        <img src="https://img.shields.io/github/commit-activity/y/o-m18?label=&style=flat&color=29b473" />
-    </td>
   </tr>
 
   <tr>
@@ -86,11 +81,6 @@ Other      = ['Streamlit', 'Jupyter', 'Git']
    <td align="center">
       <img src="https://img.shields.io/badge/-Profile%20Views-000?style=for-the-badge&logo=googleanalytics&logoColor=white&labelColor=0FA3B1" style="border-radius:20px;" /><br>
       <img src="https://komarev.com/ghpvc/?username=o-m18&style=flat&color=0FA3B1&label=" />
-    </td>
-
-  <td align="center">
-      <img src="https://img.shields.io/badge/-Contributions-000?style=for-the-badge&logo=github&logoColor=white&labelColor=00C49A" style="border-radius:20px;" /><br>
-      <img src="https://img.shields.io/github/commit-activity/m/o-m18?label=&style=flat&color=00C49A" />
     </td>
   </tr>
 
