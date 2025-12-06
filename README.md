@@ -52,25 +52,25 @@ Other      = ['Streamlit', 'Jupyter', 'Git']
   <img src="https://img.shields.io/badge/Followers-1F1F1F?style=for-the-badge&logo=github&logoColor=white&color=1F1F1F" style="border-radius: 14px; padding:6px;" />
   <br>
   <img src="https://img.shields.io/github/followers/o-m18?style=flat&color=blue&label= " />
-  <br><br>
+  <br>
 
   <!-- CARD 2: STARS -->
   <img src="https://img.shields.io/badge/Stars-1F1F1F?style=for-the-badge&logo=github&logoColor=white&color=1F1F1F" style="border-radius: 14px; padding:6px;" />
   <br>
   <img src="https://img.shields.io/github/stars/o-m18?style=flat&color=yellow&label= " />
-  <br><br>
+  <br>
 
   <!-- CARD 3: COMMITS -->
   <img src="https://img.shields.io/badge/Commits%20This%20Year-1F1F1F?style=for-the-badge&logo=github&logoColor=white&color=1F1F1F" style="border-radius: 14px; padding:6px;" />
   <br>
   <img src="https://img.shields.io/github/commit-activity/y/o-m18?style=flat&color=green&label= " />
-  <br><br>
+  <br>
 
   <!-- CARD 4: LAST COMMIT -->
   <img src="https://img.shields.io/badge/Last%20Commit-1F1F1F?style=for-the-badge&logo=github&logoColor=white&color=1F1F1F" style="border-radius: 14px; padding:6px;" />
   <br>
   <img src="https://img.shields.io/github/last-commit/o-m18/o-m18?style=flat&color=orange&label= " />
-  <br><br>
+  <br>
 
   <!-- CARD 5: PUBLIC REPOS -->
   <img src="https://img.shields.io/badge/Public%20Repos-1F1F1F?style=for-the-badge&logo=github&logoColor=white&color=1F1F1F" style="border-radius: 14px; padding:6px;" />
