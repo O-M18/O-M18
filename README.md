@@ -48,30 +48,43 @@ Other      = ['Streamlit', 'Jupyter', 'Git']
 
 <div align="center">
 
-  <!-- CARD 1: FOLLOWERS -->
-  <img src="https://img.shields.io/github/followers/o-m18?style=flat&color=blue&label= " />
-  <br>
+### 📊 GitHub Magic — Social Media Style Cards  
 
-  <!-- CARD 2: STARS -->
-  <img src="https://img.shields.io/github/stars/o-m18?style=flat&color=yellow&label= " />
-  <br>
+<div align="center">
 
-  <!-- CARD 3: COMMITS -->
-  <img src="https://img.shields.io/github/commit-activity/y/o-m18?style=flat&color=green&label= " />
+  <!-- Followers -->
+  <img src="https://img.shields.io/badge/-Followers-000?style=for-the-badge&logo=googlemessages&logoColor=white&labelColor=fe4164" style="border-radius:20px;" />
   <br>
+  <img src="https://img.shields.io/github/followers/o-m18?label=&style=flat&color=fe4164" />
+  <br><br>
 
-  <!-- CARD 4: LAST COMMIT -->
-  <img src="https://img.shields.io/github/last-commit/o-m18/o-m18?style=flat&color=orange&label= " />
+  <!-- Stars -->
+  <img src="https://img.shields.io/badge/-Stars-000?style=for-the-badge&logo=starship&logoColor=white&labelColor=ffaa00" style="border-radius:20px;" />
   <br>
+  <img src="https://img.shields.io/github/stars/o-m18?label=&style=flat&color=ffaa00" />
+  <br><br>
 
-  <!-- CARD 5: PUBLIC REPOS -->
-  <img src="https://img.shields.io/badge/Public%20Repos-1F1F1F?style=for-the-badge&logo=github&logoColor=white&color=1F1F1F" style="border-radius: 14px; padding:6px;" />
+  <!-- Commits -->
+  <img src="https://img.shields.io/badge/-Commits%20This%20Year-000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=29b473" style="border-radius:20px;" />
+  <br>
+  <img src="https://img.shields.io/github/commit-activity/y/o-m18?label=&style=flat&color=29b473" />
+  <br><br>
+
+  <!-- Last Commit -->
+  <img src="https://img.shields.io/badge/-Last%20Commit-000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=ff3e8d" style="border-radius:20px;" />
+  <br>
+  <img src="https://img.shields.io/github/last-commit/o-m18/o-m18?label=&style=flat&color=ff3e8d" />
+  <br><br>
+
+  <!-- Public Repos -->
+  <img src="https://img.shields.io/badge/-Repositories-000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1460e5" style="border-radius:20px;" />
   <br>
   <a href="https://github.com/o-m18?tab=repositories">
-    <img src="https://img.shields.io/badge/Click%20to%20View-blue?style=flat&label= " />
+    <img src="https://img.shields.io/badge/Click%20to%20View-1460e5?style=flat&label=" />
   </a>
 
 </div>
+
 
 
 
@@ -79,13 +92,11 @@ Other      = ['Streamlit', 'Jupyter', 'Git']
 
 ### 🗂️ Public Repositories
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Public_Repos-Click_to_View-blue?style=for-the-badge" />
-</p>
-
-<p align="center">
-  👉 <a href="https://github.com/o-m18?tab=repositories">View My Repos</a>
-</p>
+ <img src="https://img.shields.io/badge/-Repositories-000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1460e5" style="border-radius:20px;" />
+  <br>
+  <a href="https://github.com/o-m18?tab=repositories">
+    <img src="https://img.shields.io/badge/Click%20to%20View-1460e5?style=flat&label=" />
+  </a>
 
 
 
