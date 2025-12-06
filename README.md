@@ -18,6 +18,8 @@
 
 ---
 
+
+
 ### 🛠️ **My Toolkit**
 
 ```python
@@ -26,3 +28,39 @@ Libraries  = ['Pandas', 'Matplotlib', 'Seaborn', 'Scikit-Learn']
 Databases  = ['MySQL', 'MongoDB']
 BI Tools   = ['Power BI', 'Excel']
 Other      = ['Streamlit', 'Jupyter', 'Git']
+
+```
+
+🚀 Projects I Loved Working On
+🧠 Mental Health in India — EDA
+
+🔎 District-wise analysis of mental-health patient distribution
+
+🏥 Studied healthcare accessibility & demographic gaps
+
+📉 Identified underserved regions & hidden patterns
+
+🛠 Tech: Python, Seaborn, Power BI
+
+📁 GitHub Repo: (add link here)
+
+---
+
+)
+
+📊 GitHub Magic
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=O-M18-noto&show_icons=true&theme=radical&cache_seconds=7200" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-M18-noto&layout=compact&theme=radical&cache_seconds=7200" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=O-M18-noto&theme=radical" /> </p>
+
+---
+
+✨ Fun Facts About Me
+
+🧩 I enjoy untangling complex problems like puzzles
+
+💬 Ask me about: Data, Google Ads, Python jokes
+
+🌟 TEDx talk about ML someday? Why not.
+
+🎤 Might try stand-up comedy about data someday
+
+🎧 Music is my focus booster
