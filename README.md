@@ -47,10 +47,6 @@ Other      = ['Streamlit', 'Jupyter', 'Git']
 ### 📊 GitHub Highlights
 <div align="center">
 
-    ### 📊 GitHub Magic — Clean 3×2 Dashboard
-
-<div align="center">
-
 <!-- ▬▬▬▬▬ ROW 1 ▬▬▬▬▬ -->
 <div style="display:flex; justify-content:center; gap:40px; margin-bottom:35px;">
 
@@ -100,7 +96,6 @@ Other      = ['Streamlit', 'Jupyter', 'Git']
 
 </div>
 
-</div>
 
 
 </div>
